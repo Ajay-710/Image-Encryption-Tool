@@ -89,10 +89,6 @@ pyinstaller --onefile image_encryption.py
 
 ---
 
-## 📜 License
-This project is licensed under the **MIT License**.
-
----
 
 ## 📩 Contact
 For issues or suggestions, create an issue on [GitHub](https://github.com/your-username/Image-Encryption-Tool).
