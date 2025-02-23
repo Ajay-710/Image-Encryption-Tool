@@ -73,8 +73,10 @@ pyinstaller --onefile image_encryption.py
 
 ---
 
+
 ## 🖥️ Screenshots
-![GUI Screenshot](https://your-image-link.com)
+![Screenshot_2025-02-23_01_29_29](https://github.com/user-attachments/assets/84b6fb7b-949d-4c03-822b-4578fedae8c6)
+
 
 ---
 
